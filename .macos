@@ -42,8 +42,8 @@ echo "installing a few global npm packages"
 npm install --global serve
 
 echo "brew cask installing GUI apps"
-brew cask install iterm2 rectangle vanilla google-chrome firefox \
-visual-studio-code figma discord zoomus spotify slack kap notion
+brew cask install iterm2 rectangle vanilla google-chrome \
+visual-studio-code figma discord zoomus spotify kap notion
 
 echo "making system modifications:"
 
