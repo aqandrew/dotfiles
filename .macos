@@ -43,7 +43,7 @@ npm install --global serve
 
 echo "brew cask installing GUI apps"
 brew install --cask iterm2 rectangle vanilla google-chrome \
-visual-studio-code figma discord zoomus spotify kap notion
+visual-studio-code figma discord zoom spotify kap notion
 
 echo "making system modifications:"
 
